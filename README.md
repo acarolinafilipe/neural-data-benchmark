@@ -46,12 +46,12 @@ Benchmark models for population and individual neurons
 
 **LNP** 
 Poisson Generalized Linear Model (aka Linear Non-Linear Poisson). 
-![image](https://github.com/acarolinafilipe/neural-data-benchmark/assets/67625079/2a36e463-ee56-4dad-a51d-de9992d9b987 ){ width=50% }
+![image](https://github.com/acarolinafilipe/neural-data-benchmark/assets/67625079/2a36e463-ee56-4dad-a51d-de9992d9b987 )
 
 **GLM** 
 Autoregressive Poisson Generalized Linear Model.
 
-![image](https://github.com/acarolinafilipe/neural-data-benchmark/assets/67625079/2d1862f3-2c16-45c0-b6e7-19a205932f20 =50x)
+![image](https://github.com/acarolinafilipe/neural-data-benchmark/assets/67625079/2d1862f3-2c16-45c0-b6e7-19a205932f20)
 
 - Basis Functions: Raised Cosines,
 - Non-Parametric GLM
@@ -61,7 +61,7 @@ Autoregressive Poisson Generalized Linear Model.
 • responses may depend on more than one projection of stimulus! 
 • emphasis on dimensionality reduction
 
-![image](https://github.com/acarolinafilipe/neural-data-benchmark/assets/67625079/ff620abf-6479-4b46-8251-50a49630a026 =50x)
+![image](https://github.com/acarolinafilipe/neural-data-benchmark/assets/67625079/ff620abf-6479-4b46-8251-50a49630a026)
 
 - Generalized Quadratic Model (GQM)
 - Spike-triggered covariance (STC)
