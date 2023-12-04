@@ -46,7 +46,7 @@ Benchmark models for population and individual neurons
 
 **LNP** 
 Poisson Generalized Linear Model (aka Linear Non-Linear Poisson). 
-![image](https://github.com/acarolinafilipe/neural-data-benchmark/assets/67625079/2a36e463-ee56-4dad-a51d-de9992d9b987 =50x)
+![image](https://github.com/acarolinafilipe/neural-data-benchmark/assets/67625079/2a36e463-ee56-4dad-a51d-de9992d9b987 ){ width=50% }
 
 **GLM** 
 Autoregressive Poisson Generalized Linear Model.
